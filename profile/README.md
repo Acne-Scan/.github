@@ -1,3 +1,4 @@
+![](acne-scan-final.png)
 # AcneScan - Acne Detection App
 Empowering Vulnerable Communities for Health and Well-being
 
