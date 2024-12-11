@@ -98,7 +98,7 @@ Acne is one of the most common skin conditions affecting millions globally, lead
 
 2. **Mobile Development**:
    - UI/UX design consultation for intuitive interfaces.
-   - Guidance on deploying ML models on mobile devices.
+   - Guidance on ApiService and ApiConfig for articles, products, and machine learning.
 
 3. **Cloud Computing**:
    - GCP credits (Cloud Storage, App Engine, Cloud Run, Cloud SQL, Artifact Registry).
