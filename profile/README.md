@@ -81,7 +81,7 @@ Acne is one of the most common skin conditions affecting millions globally, lead
 
 ### Mobile Development (MD)
 - **Tools**: Android Studio, Kotlin
-- **Libraries**: Image capture and processing libraries
+- **Libraries**: ViewModel, NavigationFragment, DataBinding, Glide, Camerax, Retrofit, Coroutine, Room.
 - **Resources**: Android emulators, Figma designs
 
 ### Cloud Computing (CC)
