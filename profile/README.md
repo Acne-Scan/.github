@@ -66,8 +66,8 @@ Acne is one of the most common skin conditions affecting millions globally, lead
 | UI/UX Design           | Oct 28, 2024     | Oct 29, 2024     |
 | Initial ML Training     | Nov 2, 2024      | Nov 14, 2024     |
 | GCP Integration         | Nov 2, 2024      | Nov 14, 2024     |
-| Mobile App Prototype    | Nov 15, 2024     | Nov 23, 2024     |
-| Testing and Polishing   | Nov 26, 2024     | Dec 10, 2024      |
+| Mobile App Prototype    | Nov 15, 2024     | Nov 30, 2024     |
+| Testing and Polishing   | Nov 1, 2024     | Dec 11, 2024      |
 | Final Deliverables      | Dec 12, 2024     | Dec 13, 2024     |
 
 ---
@@ -85,8 +85,8 @@ Acne is one of the most common skin conditions affecting millions globally, lead
 - **Resources**: Android emulators, Figma designs
 
 ### Cloud Computing (CC)
-- **Tools**: Google Cloud Platform (GCP), Docker
-- **Resources**: Golang, Docker CI/CD, database hosting, GCP APIs
+- **Tools**: Google Cloud Platform (GCP), Docker, React.js
+- **Resources**: Golang, Javascript, Docker CI/CD, database hosting, GCP APIs
 
 ---
 
